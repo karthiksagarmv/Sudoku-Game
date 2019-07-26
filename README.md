@@ -4,7 +4,7 @@ Sudoku is a logic number puzzle tickling one to come up with suitable number for
 
 # Setup ( MacOS )
 1) Install Python
-2) Install Git
+2) Install Git from https://git-scm.com/downloads
 3) Install Pip
     ```
     sudo easy_install pip
